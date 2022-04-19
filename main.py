@@ -8,7 +8,7 @@
 """
 import logging
 import warnings
-from ruamel import yaml
+import ruamel_yaml as yaml
 import time
 
 import requests
